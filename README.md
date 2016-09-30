@@ -1,10 +1,13 @@
 # WoxPlugin.VMWareHorizonViewClient
 
 【应用场景】
+
 多显示器用户，运行VMWare Horizon View Client时，可以指定（单屏）全屏，或者所有显示器。
+
 实际使用时，两种模式之间的切换比较麻烦。需要进入多个菜单进行设置后重新登录。
 
 【解决方案】
+
 借助Wox，启动前修改配置文件，调整显示模式参数
 
 【实现细节】
