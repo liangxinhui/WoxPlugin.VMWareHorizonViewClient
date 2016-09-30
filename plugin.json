@@ -1,0 +1,12 @@
+{
+    "ID":"103daa7a-1967-4d1e-846a-7aa129400ce6",
+    "ActionKeyword":"hvc",
+    "Name":"hvc",
+    "Description":"VMWare Horizon View Client launcher",
+    "Author":"liangxh",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"https://github.com/Wox-launcher/Wox",
+    "ExecuteFileName":"wox.vmware_horizon_view_client.dll",
+    "IcoPath":"app.png"
+}
